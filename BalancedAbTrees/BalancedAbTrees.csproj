@@ -41,10 +41,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Ab23Tree.cs" />
-    <Compile Include="Ab24Tree.cs" />
-    <Compile Include="AbNode.cs" />
-    <Compile Include="AbTree.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
